@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fosket/GitSass/issues"
   },
-  "homepage": "https://github.com/fosket/GitSass#readme"
+  "homepage": "https://github.com/fosket/GitSass#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
