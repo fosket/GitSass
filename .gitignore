@@ -1,3 +1,13 @@
+dist 
+node_modules
+# Ignore Mac DS_Store files
+.DS_Store
+*.css.map
+dist/**/*
+sassdoc
+settings.json
+
+
 # Logs
 logs
 *.log
@@ -56,13 +66,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
-
-dist 
-node_modules
-# Ignore Mac DS_Store files
-.DS_Store
-*.css.map
-dist/**/*
-sassdoc
-settings.json
